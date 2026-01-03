@@ -1,7 +1,7 @@
 # recipes
 
 ## Description
-This is my first HTML project from **The Odin Project**.  
+This is my first HTML project from [**The Odin Project**](https://www.theodinproject.com/).  
 The goal of this project is to practice basic HTML skills by creating a simple recipe website.
 
 ## Live Demo
